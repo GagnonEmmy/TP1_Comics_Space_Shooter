@@ -36,7 +36,7 @@ public:
 	class UInputAction* IA_Fire;
 
 	UPROPERTY(EditAnywhere, Category="Movement")
-	float MaxSpeed = 1200.f;
+	float MaxSpeed = 900.f;
 
 	UPROPERTY(EditAnywhere, Category="Movement")
 	float RotationInterpSpeed = 12.f;
